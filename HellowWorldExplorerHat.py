@@ -1,5 +1,5 @@
 import explorerhat
-loy
+
 ##def ohai(channel, event):
 ##    print("Oy... I got a touch on button: {}".format(channel))
 
